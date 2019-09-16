@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  SpiderCard.cpp
+  SpiderCardDoc.cpp
+  SpiderCardView.cpp
+  ViewTree.cpp
+  Generating Code...
+  SpiderCard.vcxproj -> C:\Users\Administrator\source\repos\SpiderCard\SpiderCard\Debug\SpiderCard.exe
